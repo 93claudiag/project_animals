@@ -18,4 +18,6 @@ My favourite country ranking depends on the animals that live in it.
 
 # My Favourite Italian Animals
 * wolves
-* turtles 
+* turtles
+* scary bear
+* bees
