@@ -19,6 +19,11 @@ My favourite country ranking depends on the animals that live in it.
 # My Favourite Italian Animals
 * wolves
 * turtles
+<<<<<<< HEAD
 
 #My favorite russian Animals
 I like bears and rabbits. Also cows are nice. 
+=======
+* scary bear
+* bees
+>>>>>>> c4c5955e95b757c4a363e9eb42bb6ae2968578c0
